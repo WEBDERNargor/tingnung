@@ -1,0 +1,7 @@
+res://src/Screens/MainScreen.tscn
+res://src/UserInterface/QuitButton.tscn
+res://src/UserInterface/RetryButton.tscn
+res://src/UserInterface/SceneChangeButton.tscn
+res://src/UserInterface/Title.tscn
+res://src/UserInterface/UserInterface.tscn
+res://src/UserInterface/UserInterface.gd
